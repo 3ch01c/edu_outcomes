@@ -4,7 +4,8 @@ This project analyzes Los Alamos Public Schools spending.
 
 ## Getting Started
 
-This project uses Jupyter Notebook. The easiest way to use Jupyter Notebook is
+This project uses Jupyter Notebook. One way to use it is through the Jupyter
+extension in VS Code. Another way to use Jupyter Notebook is through
 [Docker](https://docs.docker.com/get-docker/). Once you have Docker, run the
 following command from the project directory:
 
