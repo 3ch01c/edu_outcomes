@@ -1,6 +1,6 @@
 # Education Analysis
 
-This project analyzes education outcomes.
+This project contains random analyses of education data.
 
 ## Getting Started
 
