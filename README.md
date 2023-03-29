@@ -1,6 +1,6 @@
-# Los Alamos Public School Spending Analysis
+# Education Analysis
 
-This project analyzes Los Alamos Public Schools spending.
+This project analyzes education outcomes.
 
 ## Getting Started
 
